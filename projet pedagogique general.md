@@ -1,5 +1,5 @@
 ---
 title: "Projet pédagogique général"
-order: 1
+order: 2
 ---
 Voici le projet pédagogique général des vacances scolaires 
