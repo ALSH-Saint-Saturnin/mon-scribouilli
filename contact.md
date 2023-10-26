@@ -1,9 +1,7 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
 ---
+Karen CHADEYRON - Directrice ALSH Saint Saturnin extrascolaire
 
-L'Échappée Belle est actuellement composée de 5 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+alsh.stsaturnin@mond-arverne.fr - 0754369616 
